@@ -1,7 +1,4 @@
 from tkinter import *
-import requests
-from tkinter import messagebox
-from PIL import ImageTk,Image
 from morse_code_advance import decodeBitsAdvanced, decodeMorse, encodeMorse, encode_to_bits
 
 class Operation:
